@@ -1,6 +1,6 @@
 # Resume-Builder
 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Screenshot 2024-06-17 221506](https://github.com/prateek-mohan/Resume-Builder/assets/65453254/9d35bda5-2581-4d34-9fa4-c616fe687e36)
 
 
 ### Built With
